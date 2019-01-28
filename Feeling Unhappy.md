@@ -6,8 +6,6 @@ When characterising depression as a disorder, there are a few things to be mindf
 
 If, on the other hand, you suspect that you may be experiencing lowered mood or depressed affect as a result of any kind of difficulty (no matter how frivolous you perceive this to be) some signs to watch for include:
 
-
-
 - Persistent, long-lasting feelings of sadness, emptiness, worthlessness, inappropriate guilt, self-loathing, or hopelessness.
 - Loss of interest or motivation in normal activities; hobbies, socialising, sport, sex, work, studies, etc.
 - Disturbances in your sleeping pattern (including both oversleeping and insomnia), or tiredness, fatique or lack of energy
