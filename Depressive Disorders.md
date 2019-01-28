@@ -37,16 +37,11 @@ Substance/medication-induced depressive disorder is characterised by a prominent
 
 Common substances associated with this disorder include:
 
-Alcohol
-
-Phencyclidine
-
-Hallucinogens
-
-Inhalants
-
- Opioids
-
-Amphetamines
+- Alcohol
+- Phencyclidine
+- Hallucinogens
+- Inhalants
+- Opioids
+- Amphetamines
 
 If you believe yourself to be experiencing these or ay variant depressive disorder, counselling is a recommended course of action. Please consider availing of our **Appointments Service.**
